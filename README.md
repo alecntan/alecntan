@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an [app for managing teams expenses](https://github.com/alecntan/BudgetBuddy)
 - 🌱 I’m currently learning algorithms and the Spring Framework
 - :wave: Connect with me on [LinkedIn](https://www.linkedin.com/in/alecntan/)
-- ⚡ Fun fact: I love the [Stormlight Archives](https://www.brandonsanderson.com/the-stormlight-archive-series/) and playing Magic: The Gathering!
+- ⚡ Fun fact: I love the [Stormlight Archives](https://www.brandonsanderson.com/the-stormlight-archive-series/) and playing [Magic: The Gathering](https://magic.wizards.com/en/intro)!
 
